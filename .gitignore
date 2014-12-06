@@ -1,0 +1,4 @@
+*.pyc
+*.out
+*.a
+.DS_Store
